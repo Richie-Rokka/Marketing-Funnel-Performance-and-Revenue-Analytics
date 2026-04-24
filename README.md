@@ -186,6 +186,47 @@ Trends reflect **aggregate snapshot comparisons**, not cohort progression.
 
 ---
 
+## 🧠 Business Recommendations
+
+### 1. Improve Lead Qualification
+- Refine MQL criteria  
+- Introduce stricter scoring before SQL stage  
+
+---
+
+### 2. Reallocate Marketing Spend
+- Increase investment in **Referral and Email**
+- Reduce or optimize **LinkedIn spend**
+
+---
+
+### 3. Optimize Sales Handoff
+- Align marketing and sales definitions of qualified leads  
+- Improve lead routing and follow-up timing  
+
+---
+
+### 4. Focus on Revenue, Not Volume
+- Prioritize channels that generate **high-value customers**  
+- Track **revenue per lead**, not just lead count  
+
+---
+
+## ⚙️ Analytical Workflow
+
+```text
+Raw Data
+   ↓
+Data Cleaning (Python)
+   ↓
+SQL KPI Computation
+   ↓
+Funnel & Revenue Analysis
+   ↓
+Power BI Dashboard
+   ↓
+Business Insights & Recommendations
+
 ## 📚 Key Learnings
 - Understanding snapshot vs cohort data
 - Funnel performance analysis
