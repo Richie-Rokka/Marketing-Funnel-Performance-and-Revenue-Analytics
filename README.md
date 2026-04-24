@@ -157,7 +157,23 @@ Trends reflect **aggregate snapshot comparisons**, not cohort progression.
 
 ---
 
-## 📊 Dashboard
+## 📊 Dashboard Structure
+
+### Page 1 — Channel & Revenue Performance
+- Revenue by channel  
+- CAC comparison  
+- Customer distribution  
+
+### Page 2 — Funnel & Bottleneck Analysis
+- Funnel stage breakdown  
+- Conversion rates  
+- Drop-off visualization  
+
+### Page 3 — Trend Analysis
+- Customer growth  
+- Revenue trends over time  
+
+---
 
 ### Channel & Revenue Performance
 <img width="479" height="272" alt="channel and revenue performance_dashboard" src="https://github.com/user-attachments/assets/ee6564c5-c972-4e6b-bf62-746917460308" />
