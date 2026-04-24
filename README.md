@@ -19,3 +19,20 @@ Organizations often lack visibility into:
 This leads to inefficient spend and missed growth opportunities.
 
 ---
+
+## 🧱 Dataset
+The dataset represents a **snapshot of lead stages**:
+
+- Lead → MQL → SQL → Customer  
+- Includes Channel, Campaign, Cost, Revenue, and Region  
+
+> Note: This is not cohort-based data; conversion trends represent a snapshot view.
+
+---
+
+## 🛠️ Tools Used
+- SQL (BigQuery)
+- Python (Pandas)
+- Power BI
+
+---
