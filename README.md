@@ -1,4 +1,4 @@
-# 📊 Marketing Funnel Performance & Revenue Analytics Dashboard
+# 📊 Marketing Funnel & Revenue Analytics Dashboard
 
 ## 🚀 Overview
 This project analyzes marketing funnel performance, revenue contribution, and customer acquisition efficiency using SQL, Python, and Power BI.
