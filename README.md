@@ -93,3 +93,10 @@ The biggest bottleneck occurs between:
 ---
 
 ## 📊 Dashboard
+
+<img width="478" height="269" alt="channel and revenue performance_dashboard" src="https://github.com/user-attachments/assets/c06b93b4-e924-41a4-ba13-60b741442743" />
+
+<img width="479" height="266" alt="funnel and bottleneck analysis_dashboard" src="https://github.com/user-attachments/assets/a3b6f815-0a03-42f1-9fb2-703d9652d7a2" />
+
+<img width="473" height="269" alt="trend analysis_dashboard" src="https://github.com/user-attachments/assets/6342b03d-66af-47f5-8794-22f7d40b32df" />
+
