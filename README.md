@@ -1,7 +1,16 @@
-# 📊 Marketing Funnel & Revenue Analytics Dashboard
+# 📊 Marketing Funnel & Revenue Performance Dashboard
 
-## 🚀 Overview
-This project analyzes marketing funnel performance, revenue contribution, and customer acquisition efficiency using SQL, Python, and Power BI.
+## 🚀 Executive Overview
+
+This project delivers a **business-focused analysis of marketing funnel performance and revenue efficiency** using a snapshot dataset.
+
+It is designed to answer a critical revenue question:
+
+> **Where are we losing conversions, and which channels are truly driving revenue—not just leads?**
+
+By combining funnel analysis, channel performance, and cost efficiency, this dashboard enables **data-driven decisions across Marketing, Sales, and Revenue Operations (RevOps)**.
+
+---
 
 The goal is to identify:
 - High-performing acquisition channels
@@ -11,22 +20,50 @@ The goal is to identify:
 ---
 
 ## 🎯 Business Problem
-Organizations often lack visibility into:
-- Funnel conversion performance
-- Channel-level efficiency
-- Revenue drivers
 
-This leads to inefficient spend and missed growth opportunities.
+Many organizations optimize for **lead volume**, but lack visibility into:
+
+- Where leads drop off in the funnel  
+- Which channels generate **revenue vs. just traffic**  
+- How efficiently marketing spend converts into customers  
+
+This often results in:
+- Misallocated marketing budgets  
+- Low-quality pipeline  
+- Revenue leakage across funnel stages  
 
 ---
 
-## 🧱 Dataset
-The dataset represents a **snapshot of lead stages**:
+## 🧱 Dataset Context (Important)
 
-- Lead → MQL → SQL → Customer  
-- Includes Channel, Campaign, Cost, Revenue, and Region  
+This project uses a **snapshot-based dataset**, where leads are observed at a single stage at a given point in time.
 
-> Note: This is not cohort-based data; conversion trends represent a snapshot view.
+### What this enables:
+- Funnel stage distribution analysis  
+- Conversion efficiency benchmarking  
+- Channel-level revenue contribution  
+- Customer acquisition cost (CAC) evaluation  
+
+### What this does NOT enable:
+- Lead progression tracking over time  
+- Time-to-conversion analysis  
+- Funnel velocity measurement  
+- Cohort-based lifecycle insights  
+
+> ⚠️ Interpretation Note: Conversion rates represent **stage-level distribution**, not true lifecycle conversion.
+
+---
+
+## 🧩 Data Structure
+
+The dataset includes:
+
+- Funnel Stages: `Lead → MQL → SQL → Customer`
+- Marketing Channel
+- Campaign
+- Cost
+- Revenue
+- Region
 
 ---
 
