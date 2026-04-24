@@ -9,3 +9,13 @@ The goal is to identify:
 - Revenue inefficiencies and optimization opportunities
 
 ---
+
+## 🎯 Business Problem
+Organizations often lack visibility into:
+- Funnel conversion performance
+- Channel-level efficiency
+- Revenue drivers
+
+This leads to inefficient spend and missed growth opportunities.
+
+---
