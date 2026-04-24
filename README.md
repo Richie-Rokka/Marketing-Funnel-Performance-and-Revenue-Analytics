@@ -259,3 +259,46 @@ ORDER BY total_revenue DESC;
 ```
 ---
 
+## 🔮 Future Enhancements
+
+To evolve this into a production-level analytics solution:
+
+- Implement cohort-based dataset with timestamps
+- Add funnel velocity (time-to-conversion)
+- Build lead scoring model
+- Introduce multi-touch attribution
+- ntegrate with CRM (e.g., Salesforce)
+- Automate data pipeline (ETL)
+---
+
+## 💼 Skills Demonstrated
+
+- Funnel Analysis
+- Revenue Analytics
+- Customer Acquisition Cost (CAC) Analysis
+- Channel Performance Evaluation
+- Data Cleaning & Transformation
+- SQL Analytics
+- Dashboard Design (Power BI)
+- Business Insight Generation
+- RevOps Thinking
+---
+
+## 🎯 Business Value
+
+This project demonstrates the ability to:
+
+Translate business problems into analytical frameworks
+Identify revenue leakage across the funnel
+Evaluate marketing ROI at channel level
+Deliver actionable insights for growth teams
+
+## 📌 Key Takeaway
+
+Revenue growth is not driven by more leads — it is driven by better conversion, smarter channel investment, and efficient funnel management.
+
+### 🔗 Author
+
+### Richard A. Oketade
+Data Analyst | Business Intelligence | Revenue & Operations Analytics
+GitHub: https://github.com/Richie-Rokka
