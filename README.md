@@ -82,3 +82,14 @@ The biggest bottleneck occurs between:
 > Conversion trends are snapshot-based due to dataset limitations
 
 ---
+
+## 💡 Recommendations
+
+- Improve lead qualification criteria
+- Optimize LinkedIn targeting strategy
+- Increase investment in Referral and Email channels
+- Align marketing and sales processes
+
+---
+
+## 📊 Dashboard
