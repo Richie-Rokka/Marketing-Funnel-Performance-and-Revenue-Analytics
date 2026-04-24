@@ -293,10 +293,12 @@ Identify revenue leakage across the funnel
 Evaluate marketing ROI at channel level
 Deliver actionable insights for growth teams
 
+---
 ## 📌 Key Takeaway
 
 Revenue growth is not driven by more leads — it is driven by better conversion, smarter channel investment, and efficient funnel management.
 
+---
 ### 🔗 Author
 
 ### Richard A. Oketade
