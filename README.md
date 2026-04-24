@@ -67,65 +67,93 @@ The dataset includes:
 
 ---
 
-## 🛠️ Tools Used
-- SQL (BigQuery)
-- Python (Pandas)
-- Power BI
+## 🛠️ Tools & Technologies
+
+- **SQL (BigQuery)** → Data extraction & KPI computation  
+- **Python (Pandas)** → Data cleaning & transformation  
+- **Power BI** → Dashboard development & visualization  
 
 ---
 
-## 📊 Key Metrics
-- Total Leads
-- Total Customers
-- Conversion Rate
-- Revenue
-- Customer Acquisition Cost (CAC)
+## 📊 Core KPIs
+
+| Metric | Purpose |
+|------|--------|
+| Total Leads | Top-of-funnel volume |
+| Total Customers | Revenue-driving outcomes |
+| Conversion Rate | Funnel efficiency |
+| Revenue | Business performance |
+| Customer Acquisition Cost (CAC) | Cost efficiency |
+| Revenue per Customer | Value generation |
 
 ---
 
-## 📈 Key Insights
+## 🔎 Funnel Performance Analysis
 
-- Referral is the most efficient channel:
-  - Highest conversion rate
-  - Highest revenue
-  - Lowest CAC
+### 🚨 Key Finding:
+The largest drop-off occurs between:
 
-- Email provides strong and scalable performance
+> **MQL → SQL (47.5%)**
 
-- LinkedIn underperforms across:
-  - Conversion rate
-  - Revenue contribution
-  - Cost efficiency
+### Business Interpretation:
+This indicates a critical breakdown in:
+- Lead qualification quality  
+- Marketing-to-sales handoff  
+- Sales acceptance criteria  
 
-- Largest funnel drop-off:
-  - MQL → SQL (47.5%)
-
----
-
-## 📉 Funnel Analysis
-
-The biggest bottleneck occurs between:
-**MQL → SQL**, indicating issues in:
-- Lead qualification
-- Marketing-to-sales handoff
+### Impact:
+- Sales teams spend time on low-quality leads  
+- High pipeline leakage before opportunity stage  
 
 ---
 
-## 📊 Trend Analysis
+## 📣 Channel Performance Analysis
 
-- Customer growth increased from **4 to 10 (+150%)**
-- Revenue trends improve toward later months
+### 🥇 Top Performers:
+**Referral**
+- Highest conversion rate  
+- Highest revenue contribution  
+- Lowest CAC  
+- Strongest overall efficiency  
 
-> Conversion trends are snapshot-based due to dataset limitations
+**Email**
+- Consistent performance across funnel stages  
+- Scalable and cost-effective  
 
 ---
 
-## 💡 Recommendations
+### ⚠️ Underperforming Channel:
+**LinkedIn**
+- Low conversion rate  
+- Weak revenue contribution  
+- High relative acquisition cost  
 
-- Improve lead qualification criteria
-- Optimize LinkedIn targeting strategy
-- Increase investment in Referral and Email channels
-- Align marketing and sales processes
+### Business Interpretation:
+LinkedIn may be:
+- Poorly targeted  
+- Attracting low-intent users  
+- Inefficient relative to cost  
+
+---
+
+## 💰 Revenue Efficiency Insights
+
+A key insight from this analysis:
+
+> **High lead volume does not equal high revenue performance**
+
+- Some channels generate many leads but low revenue  
+- High-performing channels balance **conversion + value + cost efficiency**
+
+---
+
+## 📈 Trend Analysis
+
+- Customer growth increased from **4 → 10 (+150%)**
+- Revenue trends improve over time  
+
+### Interpretation Note:
+Trends reflect **aggregate snapshot comparisons**, not cohort progression.
 
 ---
 
