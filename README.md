@@ -103,4 +103,18 @@ The biggest bottleneck occurs between:
 ### Trend Analysis 
 <img width="479" height="266" alt="trend analysis_dashboard" src="https://github.com/user-attachments/assets/ae1adf48-d5e8-4398-950b-3bafe175f30a" />
 
+---
 
+## 📚 Key Learnings
+- Understanding snapshot vs cohort data
+- Funnel performance analysis
+- Revenue analytics and CAC optimization
+- Data storytelling with Power BI
+
+---
+
+## 🔗 Author
+Richard A Oketade  
+Data Analyst | BI | Revenue & Operations Analytics
+
+---
