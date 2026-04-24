@@ -36,3 +36,49 @@ The dataset represents a **snapshot of lead stages**:
 - Power BI
 
 ---
+
+## 📊 Key Metrics
+- Total Leads
+- Total Customers
+- Conversion Rate
+- Revenue
+- Customer Acquisition Cost (CAC)
+
+---
+
+## 📈 Key Insights
+
+- Referral is the most efficient channel:
+  - Highest conversion rate
+  - Highest revenue
+  - Lowest CAC
+
+- Email provides strong and scalable performance
+
+- LinkedIn underperforms across:
+  - Conversion rate
+  - Revenue contribution
+  - Cost efficiency
+
+- Largest funnel drop-off:
+  - MQL → SQL (47.5%)
+
+---
+
+## 📉 Funnel Analysis
+
+The biggest bottleneck occurs between:
+**MQL → SQL**, indicating issues in:
+- Lead qualification
+- Marketing-to-sales handoff
+
+---
+
+## 📊 Trend Analysis
+
+- Customer growth increased from **4 to 10 (+150%)**
+- Revenue trends improve toward later months
+
+> Conversion trends are snapshot-based due to dataset limitations
+
+---
