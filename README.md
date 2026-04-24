@@ -227,16 +227,4 @@ Power BI Dashboard
    ↓
 Business Insights & Recommendations
 
-## 📚 Key Learnings
-- Understanding snapshot vs cohort data
-- Funnel performance analysis
-- Revenue analytics and CAC optimization
-- Data storytelling with Power BI
 
----
-
-## 🔗 Author
-Richard A Oketade  
-Data Analyst | BI | Revenue & Operations Analytics
-
----
