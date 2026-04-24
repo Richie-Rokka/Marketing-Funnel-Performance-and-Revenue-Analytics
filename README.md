@@ -300,5 +300,7 @@ Revenue growth is not driven by more leads — it is driven by better conversion
 ### 🔗 Author
 
 ### Richard A. Oketade
+
 Data Analyst | Business Intelligence | Revenue & Operations Analytics
+
 GitHub: https://github.com/Richie-Rokka
