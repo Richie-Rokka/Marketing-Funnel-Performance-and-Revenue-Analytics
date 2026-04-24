@@ -178,12 +178,17 @@ Trends reflect **aggregate snapshot comparisons**, not cohort progression.
 ### Channel & Revenue Performance
 <img width="479" height="272" alt="channel and revenue performance_dashboard" src="https://github.com/user-attachments/assets/ee6564c5-c972-4e6b-bf62-746917460308" />
 
+**Insight:** Referral and Email channels outperform others in both conversion and revenue efficiency, while LinkedIn shows lower ROI despite lead volume.
+
 ### Funnel & Bottleneck Analysis  
 <img width="482" height="263" alt="funnel and bottleneck analysis_dashboard" src="https://github.com/user-attachments/assets/3ce3c040-7240-41f1-93a7-b153b3d0599b" />
+
+**Insight:** Referral and Email channels outperform others in both conversion and revenue efficiency, while LinkedIn shows lower ROI despite lead volume.
 
 ### Trend Analysis 
 <img width="479" height="266" alt="trend analysis_dashboard" src="https://github.com/user-attachments/assets/ae1adf48-d5e8-4398-950b-3bafe175f30a" />
 
+**Insight:** Referral and Email channels outperform others in both conversion and revenue efficiency, while LinkedIn shows lower ROI despite lead volume.
 ---
 
 ## 🧠 Business Recommendations
