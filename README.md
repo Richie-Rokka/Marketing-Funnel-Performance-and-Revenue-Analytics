@@ -226,5 +226,36 @@ Funnel & Revenue Analysis
 Power BI Dashboard
    ↓
 Business Insights & Recommendations
+```
+---
 
+## 🧮 Sample SQL Logic
+
+### Funnel Distribution
+
+```text
+SELECT 
+  funnel_stage,
+  COUNT(DISTINCT lead_id) AS total_leads,
+  ROUND(
+    COUNT(DISTINCT lead_id) * 100.0 /
+    SUM(COUNT(DISTINCT lead_id)) OVER (),
+    2
+  ) AS stage_percentage
+FROM funnel_data
+GROUP BY funnel_stage;
+```
+### Revenue by Channel
+
+```text
+SELECT 
+  channel,
+  SUM(revenue) AS total_revenue,
+  COUNT(DISTINCT lead_id) AS total_leads,
+  ROUND(SUM(revenue) / COUNT(DISTINCT lead_id), 2) AS revenue_per_lead
+FROM funnel_data
+GROUP BY channel
+ORDER BY total_revenue DESC;
+```
+---
 
