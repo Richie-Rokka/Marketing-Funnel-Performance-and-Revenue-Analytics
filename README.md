@@ -269,7 +269,7 @@ To evolve this into a production-level analytics solution:
 - Add funnel velocity (time-to-conversion)
 - Build lead scoring model
 - Introduce multi-touch attribution
-- ntegrate with CRM (e.g., Salesforce)
+- Integrate with CRM (e.g., Salesforce)
 - Automate data pipeline (ETL)
 ---
 
