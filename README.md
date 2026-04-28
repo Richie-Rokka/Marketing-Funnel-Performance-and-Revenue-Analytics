@@ -176,13 +176,15 @@ Trends reflect **aggregate snapshot comparisons**, not cohort progression.
 ---
 
 ### Channel & Revenue Performance
-<img width="479" height="271" alt="channel and revenue performance_dashboard" src="https://github.com/user-attachments/assets/c5aa09ce-3b43-4465-a0c3-d4da8d01c57d" />
+<img width="473" height="266" alt="image" src="https://github.com/user-attachments/assets/7380e944-5d92-4a00-b107-36e62759220f" />
+
 
 ### Funnel & Bottleneck Analysis  
-<img width="482" height="263" alt="funnel and bottleneck analysis_dashboard" src="https://github.com/user-attachments/assets/3ce3c040-7240-41f1-93a7-b153b3d0599b" />
+
+<img width="478" height="267" alt="funnel and bottleneck analysis_dashboard" src="https://github.com/user-attachments/assets/9196f306-2ece-440d-825e-cf4fd0605620" />
 
 ### Trend Analysis 
-<img width="479" height="266" alt="trend analysis_dashboard" src="https://github.com/user-attachments/assets/ae1adf48-d5e8-4398-950b-3bafe175f30a" />
+<img width="473" height="266" alt="trend analysis_dashboard" src="https://github.com/user-attachments/assets/d594b7e1-c12a-46ae-bcb4-80aa626b5127" />
 
 ---
 
